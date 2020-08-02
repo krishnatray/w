@@ -1,3 +1,2 @@
-# personal files 
-# ** please do not copy **
+# ** please do not copy this repo, thanks **
 
